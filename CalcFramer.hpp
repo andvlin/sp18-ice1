@@ -21,6 +21,7 @@ public:
 
 protected:
 	// PUT ANY FIELDS/STATE HERE
+	std::string buffer;
 };
 
 #endif // CALCFRAMER_HPP
